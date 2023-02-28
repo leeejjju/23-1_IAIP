@@ -1,6 +1,4 @@
-#
-# openAI, AI식별 툴 무료공개
-openAI, AI식별기 툴 무료공개
+# openAI, AI식별기 툴 무료공개
 
 <br>
 
